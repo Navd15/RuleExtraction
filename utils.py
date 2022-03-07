@@ -12,6 +12,14 @@ dotenv.load_dotenv('.env')
 
 
 def _decodeJSON(filePath,line_end='\n'):
+    """
+            Parameters:
+                filePath (str): path of json file
+                line_end (str) optional: char to insert at the end of each line
+            
+            Returns:
+                ext_str (str): concatenated string
+    """
     assert filePath; 'file path is required'
     ext_str=""
     try:
@@ -29,6 +37,14 @@ def _decodeJSON(filePath,line_end='\n'):
 
 
 def _writeCSV(doc,fileIn,fileOutName=os.getenv('OUT_FILE')):
+    """
+        Parameters:
+            doc (spacy Doc): Doc object from spacy 
+            fileIn (str): input file path
+            fileOutName (str) optional:output file name   (default: OUT_FILE from .env)  
+        Returns:
+            filePath (str): output file name on success else None
+    """
     assert type(doc)==spacy.tokens.doc.Doc, 'doc type not spacy.Doc'
     try:
         fileOutName=fileOutName.format(_getFileName(fileIn))
@@ -50,7 +66,15 @@ def _getFileName(filePath):
     return tail or os.path.basename(head)
 
 def _matcher(nlp):
+    """
+    Adds patterns to the default token matcher.
+    Parameters:
+        nlp (spacy.lang.en.English): spacy pretrained model
+    Returns:
+        matcher (spacy.matcher.matcher.Matcher): spacy matcher object
+    """
     matcher = Matcher(nlp.vocab)
+    # pattern for invoice number
     invoice_pat=[[{'text':{'in':['INVOICE','BILL']}},{'ORTH':{'IN':['#','@']}},{'IS_DIGIT':True}]]
     # pattern to extract balance/money statement
     balance_pat=[[{'IS_CURRENCY': True}, {'IS_SPACE': True, 'OP': '?'}, {'LIKE_NUM': True}]]
@@ -66,6 +90,15 @@ def _matcher(nlp):
     return matcher
 
 def classify(filePath):
+    '''
+    wrapper over the inner methods in util file. initializes nlp object
+    and add the custom component to the default pipeline. calls the _matcher and 
+    all other inner functions. 
+        Parameters:
+            filePath (str): input file path
+        Returns:
+            str : output file path on success
+    '''
     assert filePath, "input file path required"
     nlp = spacy.load("en_core_web_sm")
     matcher=_matcher(nlp)

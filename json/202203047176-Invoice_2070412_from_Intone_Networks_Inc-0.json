@@ -1,0 +1,4863 @@
+{
+    "metadata": {
+        "bucket_details": {
+            "bucket_name": "artificio-datasets",
+            "source_folder_name": "annotation"
+        },
+        "image_details": {
+            "filename": "202203047176-Invoice_2070412_from_Intone_Networks_Inc-0.jpg",
+            "file_extension": "JPG",
+            "file_size": {
+                "height": "2280",
+                "width": "1762"
+            }
+        }
+    },
+    "text_annotations": [
+        {
+            "block_details": {
+                "block_description": "Intone Networks Inc",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 127,
+                            "y": 115
+                        },
+                        {
+                            "x": 384,
+                            "y": 115
+                        },
+                        {
+                            "x": 384,
+                            "y": 142
+                        },
+                        {
+                            "x": 127,
+                            "y": 142
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "Intone",
+                    "confidence_score": 0.996,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 127,
+                                "y": 116
+                            },
+                            {
+                                "x": 207,
+                                "y": 116
+                            },
+                            {
+                                "x": 207,
+                                "y": 141
+                            },
+                            {
+                                "x": 127,
+                                "y": 141
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Networks",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 215,
+                                "y": 115
+                            },
+                            {
+                                "x": 336,
+                                "y": 115
+                            },
+                            {
+                                "x": 336,
+                                "y": 141
+                            },
+                            {
+                                "x": 215,
+                                "y": 141
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Inc",
+                    "confidence_score": 0.997,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 343,
+                                "y": 115
+                            },
+                            {
+                                "x": 384,
+                                "y": 115
+                            },
+                            {
+                                "x": 384,
+                                "y": 142
+                            },
+                            {
+                                "x": 343,
+                                "y": 142
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "10 Austin Ave",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 128,
+                            "y": 159
+                        },
+                        {
+                            "x": 305,
+                            "y": 159
+                        },
+                        {
+                            "x": 305,
+                            "y": 185
+                        },
+                        {
+                            "x": 128,
+                            "y": 185
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "10",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 128,
+                                "y": 160
+                            },
+                            {
+                                "x": 160,
+                                "y": 160
+                            },
+                            {
+                                "x": 160,
+                                "y": 184
+                            },
+                            {
+                                "x": 128,
+                                "y": 184
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Austin",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 166,
+                                "y": 159
+                            },
+                            {
+                                "x": 248,
+                                "y": 159
+                            },
+                            {
+                                "x": 248,
+                                "y": 185
+                            },
+                            {
+                                "x": 166,
+                                "y": 185
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Ave",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 254,
+                                "y": 159
+                            },
+                            {
+                                "x": 305,
+                                "y": 159
+                            },
+                            {
+                                "x": 305,
+                                "y": 184
+                            },
+                            {
+                                "x": 254,
+                                "y": 184
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "Iselin, NJ 08830",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 127,
+                            "y": 198
+                        },
+                        {
+                            "x": 343,
+                            "y": 198
+                        },
+                        {
+                            "x": 343,
+                            "y": 227
+                        },
+                        {
+                            "x": 127,
+                            "y": 227
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "Iselin,",
+                    "confidence_score": 0.979,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 127,
+                                "y": 198
+                            },
+                            {
+                                "x": 202,
+                                "y": 198
+                            },
+                            {
+                                "x": 202,
+                                "y": 227
+                            },
+                            {
+                                "x": 127,
+                                "y": 227
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "NJ",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 209,
+                                "y": 198
+                            },
+                            {
+                                "x": 245,
+                                "y": 198
+                            },
+                            {
+                                "x": 245,
+                                "y": 224
+                            },
+                            {
+                                "x": 209,
+                                "y": 224
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "08830",
+                    "confidence_score": 0.994,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 260,
+                                "y": 198
+                            },
+                            {
+                                "x": 343,
+                                "y": 198
+                            },
+                            {
+                                "x": 343,
+                                "y": 223
+                            },
+                            {
+                                "x": 260,
+                                "y": 223
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "intone",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1222,
+                            "y": 141
+                        },
+                        {
+                            "x": 1599,
+                            "y": 141
+                        },
+                        {
+                            "x": 1599,
+                            "y": 233
+                        },
+                        {
+                            "x": 1222,
+                            "y": 233
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "intone",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1222,
+                                "y": 141
+                            },
+                            {
+                                "x": 1599,
+                                "y": 141
+                            },
+                            {
+                                "x": 1599,
+                                "y": 233
+                            },
+                            {
+                                "x": 1222,
+                                "y": 233
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "9089307189",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 125,
+                            "y": 238
+                        },
+                        {
+                            "x": 289,
+                            "y": 238
+                        },
+                        {
+                            "x": 289,
+                            "y": 264
+                        },
+                        {
+                            "x": 125,
+                            "y": 264
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "9089307189",
+                    "confidence_score": 0.993,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 125,
+                                "y": 238
+                            },
+                            {
+                                "x": 289,
+                                "y": 238
+                            },
+                            {
+                                "x": 289,
+                                "y": 264
+                            },
+                            {
+                                "x": 125,
+                                "y": 264
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "N E T W o R K S",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1219,
+                            "y": 249
+                        },
+                        {
+                            "x": 1604,
+                            "y": 249
+                        },
+                        {
+                            "x": 1604,
+                            "y": 275
+                        },
+                        {
+                            "x": 1219,
+                            "y": 275
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "N",
+                    "confidence_score": 0.986,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1219,
+                                "y": 250
+                            },
+                            {
+                                "x": 1242,
+                                "y": 250
+                            },
+                            {
+                                "x": 1242,
+                                "y": 275
+                            },
+                            {
+                                "x": 1219,
+                                "y": 275
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "E",
+                    "confidence_score": 0.995,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1267,
+                                "y": 249
+                            },
+                            {
+                                "x": 1288,
+                                "y": 249
+                            },
+                            {
+                                "x": 1288,
+                                "y": 274
+                            },
+                            {
+                                "x": 1267,
+                                "y": 274
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "T",
+                    "confidence_score": 0.995,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1317,
+                                "y": 249
+                            },
+                            {
+                                "x": 1341,
+                                "y": 249
+                            },
+                            {
+                                "x": 1341,
+                                "y": 275
+                            },
+                            {
+                                "x": 1317,
+                                "y": 275
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "W",
+                    "confidence_score": 0.981,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1370,
+                                "y": 249
+                            },
+                            {
+                                "x": 1401,
+                                "y": 249
+                            },
+                            {
+                                "x": 1401,
+                                "y": 275
+                            },
+                            {
+                                "x": 1370,
+                                "y": 275
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "o",
+                    "confidence_score": 0.839,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1424,
+                                "y": 249
+                            },
+                            {
+                                "x": 1450,
+                                "y": 249
+                            },
+                            {
+                                "x": 1450,
+                                "y": 275
+                            },
+                            {
+                                "x": 1424,
+                                "y": 275
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "R",
+                    "confidence_score": 0.992,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1481,
+                                "y": 249
+                            },
+                            {
+                                "x": 1505,
+                                "y": 249
+                            },
+                            {
+                                "x": 1505,
+                                "y": 275
+                            },
+                            {
+                                "x": 1481,
+                                "y": 275
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "K",
+                    "confidence_score": 0.984,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1536,
+                                "y": 250
+                            },
+                            {
+                                "x": 1560,
+                                "y": 250
+                            },
+                            {
+                                "x": 1560,
+                                "y": 275
+                            },
+                            {
+                                "x": 1536,
+                                "y": 275
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "S",
+                    "confidence_score": 0.979,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1584,
+                                "y": 250
+                            },
+                            {
+                                "x": 1604,
+                                "y": 250
+                            },
+                            {
+                                "x": 1604,
+                                "y": 274
+                            },
+                            {
+                                "x": 1584,
+                                "y": 274
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "accounts@intonenetworks.con",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 128,
+                            "y": 278
+                        },
+                        {
+                            "x": 522,
+                            "y": 278
+                        },
+                        {
+                            "x": 522,
+                            "y": 307
+                        },
+                        {
+                            "x": 128,
+                            "y": 307
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "accounts@intonenetworks.con",
+                    "confidence_score": 0.924,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 128,
+                                "y": 278
+                            },
+                            {
+                                "x": 522,
+                                "y": 278
+                            },
+                            {
+                                "x": 522,
+                                "y": 307
+                            },
+                            {
+                                "x": 128,
+                                "y": 307
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "http://intonenetworks.com",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 128,
+                            "y": 317
+                        },
+                        {
+                            "x": 452,
+                            "y": 317
+                        },
+                        {
+                            "x": 452,
+                            "y": 347
+                        },
+                        {
+                            "x": 128,
+                            "y": 347
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "http://intonenetworks.com",
+                    "confidence_score": 0.978,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 128,
+                                "y": 317
+                            },
+                            {
+                                "x": 452,
+                                "y": 317
+                            },
+                            {
+                                "x": 452,
+                                "y": 347
+                            },
+                            {
+                                "x": 128,
+                                "y": 347
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "INVOICE",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 136,
+                            "y": 376
+                        },
+                        {
+                            "x": 369,
+                            "y": 376
+                        },
+                        {
+                            "x": 369,
+                            "y": 422
+                        },
+                        {
+                            "x": 136,
+                            "y": 422
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "INVOICE",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 136,
+                                "y": 376
+                            },
+                            {
+                                "x": 369,
+                                "y": 376
+                            },
+                            {
+                                "x": 369,
+                                "y": 422
+                            },
+                            {
+                                "x": 136,
+                                "y": 422
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "BILL TO",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 133,
+                            "y": 473
+                        },
+                        {
+                            "x": 242,
+                            "y": 473
+                        },
+                        {
+                            "x": 242,
+                            "y": 500
+                        },
+                        {
+                            "x": 133,
+                            "y": 500
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "BILL",
+                    "confidence_score": 0.996,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 133,
+                                "y": 473
+                            },
+                            {
+                                "x": 194,
+                                "y": 473
+                            },
+                            {
+                                "x": 194,
+                                "y": 499
+                            },
+                            {
+                                "x": 133,
+                                "y": 499
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "TO",
+                    "confidence_score": 0.992,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 200,
+                                "y": 473
+                            },
+                            {
+                                "x": 242,
+                                "y": 473
+                            },
+                            {
+                                "x": 242,
+                                "y": 500
+                            },
+                            {
+                                "x": 200,
+                                "y": 500
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "INVOICE # 2070412",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1187,
+                            "y": 473
+                        },
+                        {
+                            "x": 1457,
+                            "y": 473
+                        },
+                        {
+                            "x": 1457,
+                            "y": 499
+                        },
+                        {
+                            "x": 1187,
+                            "y": 499
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "INVOICE",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1187,
+                                "y": 473
+                            },
+                            {
+                                "x": 1306,
+                                "y": 473
+                            },
+                            {
+                                "x": 1306,
+                                "y": 499
+                            },
+                            {
+                                "x": 1187,
+                                "y": 499
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "#",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1313,
+                                "y": 474
+                            },
+                            {
+                                "x": 1332,
+                                "y": 474
+                            },
+                            {
+                                "x": 1332,
+                                "y": 499
+                            },
+                            {
+                                "x": 1313,
+                                "y": 499
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "2070412",
+                    "confidence_score": 0.993,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1342,
+                                "y": 473
+                            },
+                            {
+                                "x": 1457,
+                                "y": 473
+                            },
+                            {
+                                "x": 1457,
+                                "y": 498
+                            },
+                            {
+                                "x": 1342,
+                                "y": 498
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "Biztech2go Inc",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 134,
+                            "y": 517
+                        },
+                        {
+                            "x": 325,
+                            "y": 517
+                        },
+                        {
+                            "x": 325,
+                            "y": 548
+                        },
+                        {
+                            "x": 134,
+                            "y": 548
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "Biztech2go",
+                    "confidence_score": 0.988,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 134,
+                                "y": 517
+                            },
+                            {
+                                "x": 278,
+                                "y": 517
+                            },
+                            {
+                                "x": 278,
+                                "y": 548
+                            },
+                            {
+                                "x": 134,
+                                "y": 548
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Inc",
+                    "confidence_score": 0.996,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 285,
+                                "y": 517
+                            },
+                            {
+                                "x": 325,
+                                "y": 517
+                            },
+                            {
+                                "x": 325,
+                                "y": 543
+                            },
+                            {
+                                "x": 285,
+                                "y": 543
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "DATE 07/02/2020",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1253,
+                            "y": 513
+                        },
+                        {
+                            "x": 1489,
+                            "y": 513
+                        },
+                        {
+                            "x": 1489,
+                            "y": 539
+                        },
+                        {
+                            "x": 1253,
+                            "y": 539
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "DATE",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1253,
+                                "y": 513
+                            },
+                            {
+                                "x": 1331,
+                                "y": 513
+                            },
+                            {
+                                "x": 1331,
+                                "y": 539
+                            },
+                            {
+                                "x": 1253,
+                                "y": 539
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "07/02/2020",
+                    "confidence_score": 0.995,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1343,
+                                "y": 513
+                            },
+                            {
+                                "x": 1489,
+                                "y": 513
+                            },
+                            {
+                                "x": 1489,
+                                "y": 539
+                            },
+                            {
+                                "x": 1343,
+                                "y": 539
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "2082 Bus Ctr Dr Ste 250",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 133,
+                            "y": 557
+                        },
+                        {
+                            "x": 448,
+                            "y": 557
+                        },
+                        {
+                            "x": 448,
+                            "y": 582
+                        },
+                        {
+                            "x": 133,
+                            "y": 582
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "2082",
+                    "confidence_score": 0.997,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 133,
+                                "y": 558
+                            },
+                            {
+                                "x": 199,
+                                "y": 558
+                            },
+                            {
+                                "x": 199,
+                                "y": 582
+                            },
+                            {
+                                "x": 133,
+                                "y": 582
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Bus",
+                    "confidence_score": 0.996,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 207,
+                                "y": 557
+                            },
+                            {
+                                "x": 256,
+                                "y": 557
+                            },
+                            {
+                                "x": 256,
+                                "y": 582
+                            },
+                            {
+                                "x": 207,
+                                "y": 582
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Ctr",
+                    "confidence_score": 0.997,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 263,
+                                "y": 557
+                            },
+                            {
+                                "x": 304,
+                                "y": 557
+                            },
+                            {
+                                "x": 304,
+                                "y": 582
+                            },
+                            {
+                                "x": 263,
+                                "y": 582
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Dr",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 311,
+                                "y": 557
+                            },
+                            {
+                                "x": 342,
+                                "y": 557
+                            },
+                            {
+                                "x": 342,
+                                "y": 582
+                            },
+                            {
+                                "x": 311,
+                                "y": 582
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Ste",
+                    "confidence_score": 0.995,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 348,
+                                "y": 557
+                            },
+                            {
+                                "x": 392,
+                                "y": 557
+                            },
+                            {
+                                "x": 392,
+                                "y": 582
+                            },
+                            {
+                                "x": 348,
+                                "y": 582
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "250",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 399,
+                                "y": 557
+                            },
+                            {
+                                "x": 448,
+                                "y": 557
+                            },
+                            {
+                                "x": 448,
+                                "y": 582
+                            },
+                            {
+                                "x": 399,
+                                "y": 582
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "DUE DATE 08/01/2020",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1184,
+                            "y": 552
+                        },
+                        {
+                            "x": 1489,
+                            "y": 552
+                        },
+                        {
+                            "x": 1489,
+                            "y": 579
+                        },
+                        {
+                            "x": 1184,
+                            "y": 579
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "DUE",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1184,
+                                "y": 553
+                            },
+                            {
+                                "x": 1245,
+                                "y": 553
+                            },
+                            {
+                                "x": 1245,
+                                "y": 579
+                            },
+                            {
+                                "x": 1184,
+                                "y": 579
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "DATE",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1253,
+                                "y": 552
+                            },
+                            {
+                                "x": 1331,
+                                "y": 552
+                            },
+                            {
+                                "x": 1331,
+                                "y": 578
+                            },
+                            {
+                                "x": 1253,
+                                "y": 578
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "08/01/2020",
+                    "confidence_score": 0.996,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1344,
+                                "y": 553
+                            },
+                            {
+                                "x": 1489,
+                                "y": 553
+                            },
+                            {
+                                "x": 1489,
+                                "y": 578
+                            },
+                            {
+                                "x": 1344,
+                                "y": 578
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "Irvine, CA 92612",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 134,
+                            "y": 596
+                        },
+                        {
+                            "x": 357,
+                            "y": 596
+                        },
+                        {
+                            "x": 357,
+                            "y": 623
+                        },
+                        {
+                            "x": 134,
+                            "y": 623
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "Irvine,",
+                    "confidence_score": 0.982,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 134,
+                                "y": 596
+                            },
+                            {
+                                "x": 212,
+                                "y": 596
+                            },
+                            {
+                                "x": 212,
+                                "y": 623
+                            },
+                            {
+                                "x": 134,
+                                "y": 623
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "CA",
+                    "confidence_score": 0.997,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 220,
+                                "y": 596
+                            },
+                            {
+                                "x": 261,
+                                "y": 596
+                            },
+                            {
+                                "x": 261,
+                                "y": 621
+                            },
+                            {
+                                "x": 220,
+                                "y": 621
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "92612",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 275,
+                                "y": 597
+                            },
+                            {
+                                "x": 357,
+                                "y": 597
+                            },
+                            {
+                                "x": 357,
+                                "y": 621
+                            },
+                            {
+                                "x": 275,
+                                "y": 621
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "TERMS Net 30",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1227,
+                            "y": 592
+                        },
+                        {
+                            "x": 1429,
+                            "y": 592
+                        },
+                        {
+                            "x": 1429,
+                            "y": 618
+                        },
+                        {
+                            "x": 1227,
+                            "y": 618
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "TERMS",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1227,
+                                "y": 592
+                            },
+                            {
+                                "x": 1330,
+                                "y": 592
+                            },
+                            {
+                                "x": 1330,
+                                "y": 618
+                            },
+                            {
+                                "x": 1227,
+                                "y": 618
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Net",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1345,
+                                "y": 593
+                            },
+                            {
+                                "x": 1389,
+                                "y": 593
+                            },
+                            {
+                                "x": 1389,
+                                "y": 617
+                            },
+                            {
+                                "x": 1345,
+                                "y": 617
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "30",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1396,
+                                "y": 593
+                            },
+                            {
+                                "x": 1429,
+                                "y": 593
+                            },
+                            {
+                                "x": 1429,
+                                "y": 617
+                            },
+                            {
+                                "x": 1396,
+                                "y": 617
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "United States",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 135,
+                            "y": 637
+                        },
+                        {
+                            "x": 307,
+                            "y": 637
+                        },
+                        {
+                            "x": 307,
+                            "y": 662
+                        },
+                        {
+                            "x": 135,
+                            "y": 662
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "United",
+                    "confidence_score": 1.0,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 135,
+                                "y": 637
+                            },
+                            {
+                                "x": 217,
+                                "y": 637
+                            },
+                            {
+                                "x": 217,
+                                "y": 662
+                            },
+                            {
+                                "x": 135,
+                                "y": 662
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "States",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 225,
+                                "y": 637
+                            },
+                            {
+                                "x": 307,
+                                "y": 637
+                            },
+                            {
+                                "x": 307,
+                                "y": 662
+                            },
+                            {
+                                "x": 225,
+                                "y": 662
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "STATE",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 133,
+                            "y": 748
+                        },
+                        {
+                            "x": 228,
+                            "y": 748
+                        },
+                        {
+                            "x": 228,
+                            "y": 773
+                        },
+                        {
+                            "x": 133,
+                            "y": 773
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "STATE",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 133,
+                                "y": 748
+                            },
+                            {
+                                "x": 228,
+                                "y": 748
+                            },
+                            {
+                                "x": 228,
+                                "y": 773
+                            },
+                            {
+                                "x": 133,
+                                "y": 773
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "START DATE",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 631,
+                            "y": 748
+                        },
+                        {
+                            "x": 811,
+                            "y": 748
+                        },
+                        {
+                            "x": 811,
+                            "y": 774
+                        },
+                        {
+                            "x": 631,
+                            "y": 774
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "START",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 631,
+                                "y": 748
+                            },
+                            {
+                                "x": 727,
+                                "y": 748
+                            },
+                            {
+                                "x": 727,
+                                "y": 774
+                            },
+                            {
+                                "x": 631,
+                                "y": 774
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "DATE",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 734,
+                                "y": 748
+                            },
+                            {
+                                "x": 811,
+                                "y": 748
+                            },
+                            {
+                                "x": 811,
+                                "y": 774
+                            },
+                            {
+                                "x": 734,
+                                "y": 774
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "END DATE",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1129,
+                            "y": 748
+                        },
+                        {
+                            "x": 1275,
+                            "y": 748
+                        },
+                        {
+                            "x": 1275,
+                            "y": 773
+                        },
+                        {
+                            "x": 1129,
+                            "y": 773
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "END",
+                    "confidence_score": 0.997,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1129,
+                                "y": 748
+                            },
+                            {
+                                "x": 1189,
+                                "y": 748
+                            },
+                            {
+                                "x": 1189,
+                                "y": 773
+                            },
+                            {
+                                "x": 1129,
+                                "y": 773
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "DATE",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1197,
+                                "y": 748
+                            },
+                            {
+                                "x": 1275,
+                                "y": 748
+                            },
+                            {
+                                "x": 1275,
+                                "y": 773
+                            },
+                            {
+                                "x": 1197,
+                                "y": 773
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "CA",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 133,
+                            "y": 788
+                        },
+                        {
+                            "x": 175,
+                            "y": 788
+                        },
+                        {
+                            "x": 175,
+                            "y": 812
+                        },
+                        {
+                            "x": 133,
+                            "y": 812
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "CA",
+                    "confidence_score": 0.996,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 133,
+                                "y": 788
+                            },
+                            {
+                                "x": 175,
+                                "y": 788
+                            },
+                            {
+                                "x": 175,
+                                "y": 812
+                            },
+                            {
+                                "x": 133,
+                                "y": 812
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "06/01/2020",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 631,
+                            "y": 788
+                        },
+                        {
+                            "x": 776,
+                            "y": 788
+                        },
+                        {
+                            "x": 776,
+                            "y": 813
+                        },
+                        {
+                            "x": 631,
+                            "y": 813
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "06/01/2020",
+                    "confidence_score": 0.994,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 631,
+                                "y": 788
+                            },
+                            {
+                                "x": 776,
+                                "y": 788
+                            },
+                            {
+                                "x": 776,
+                                "y": 813
+                            },
+                            {
+                                "x": 631,
+                                "y": 813
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "06/30/2020",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1129,
+                            "y": 788
+                        },
+                        {
+                            "x": 1273,
+                            "y": 788
+                        },
+                        {
+                            "x": 1273,
+                            "y": 813
+                        },
+                        {
+                            "x": 1129,
+                            "y": 813
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "06/30/2020",
+                    "confidence_score": 0.991,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1129,
+                                "y": 788
+                            },
+                            {
+                                "x": 1273,
+                                "y": 788
+                            },
+                            {
+                                "x": 1273,
+                                "y": 813
+                            },
+                            {
+                                "x": 1129,
+                                "y": 813
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "ACTIVITY",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 141,
+                            "y": 889
+                        },
+                        {
+                            "x": 259,
+                            "y": 889
+                        },
+                        {
+                            "x": 259,
+                            "y": 912
+                        },
+                        {
+                            "x": 141,
+                            "y": 912
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "ACTIVITY",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 141,
+                                "y": 889
+                            },
+                            {
+                                "x": 259,
+                                "y": 889
+                            },
+                            {
+                                "x": 259,
+                                "y": 912
+                            },
+                            {
+                                "x": 141,
+                                "y": 912
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "QTY",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1062,
+                            "y": 889
+                        },
+                        {
+                            "x": 1117,
+                            "y": 889
+                        },
+                        {
+                            "x": 1117,
+                            "y": 912
+                        },
+                        {
+                            "x": 1062,
+                            "y": 912
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "QTY",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1062,
+                                "y": 889
+                            },
+                            {
+                                "x": 1117,
+                                "y": 889
+                            },
+                            {
+                                "x": 1117,
+                                "y": 912
+                            },
+                            {
+                                "x": 1062,
+                                "y": 912
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "RATE",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1329,
+                            "y": 889
+                        },
+                        {
+                            "x": 1399,
+                            "y": 889
+                        },
+                        {
+                            "x": 1399,
+                            "y": 912
+                        },
+                        {
+                            "x": 1329,
+                            "y": 912
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "RATE",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1329,
+                                "y": 889
+                            },
+                            {
+                                "x": 1399,
+                                "y": 889
+                            },
+                            {
+                                "x": 1399,
+                                "y": 912
+                            },
+                            {
+                                "x": 1329,
+                                "y": 912
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "AMOUNT",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1505,
+                            "y": 890
+                        },
+                        {
+                            "x": 1618,
+                            "y": 890
+                        },
+                        {
+                            "x": 1618,
+                            "y": 912
+                        },
+                        {
+                            "x": 1505,
+                            "y": 912
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "AMOUNT",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1505,
+                                "y": 890
+                            },
+                            {
+                                "x": 1618,
+                                "y": 890
+                            },
+                            {
+                                "x": 1618,
+                                "y": 912
+                            },
+                            {
+                                "x": 1505,
+                                "y": 912
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "Bala Gade Manoj Kumar / Biztech2go",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 142,
+                            "y": 943
+                        },
+                        {
+                            "x": 624,
+                            "y": 943
+                        },
+                        {
+                            "x": 624,
+                            "y": 975
+                        },
+                        {
+                            "x": 142,
+                            "y": 975
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "Bala",
+                    "confidence_score": 0.996,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 142,
+                                "y": 944
+                            },
+                            {
+                                "x": 200,
+                                "y": 944
+                            },
+                            {
+                                "x": 200,
+                                "y": 969
+                            },
+                            {
+                                "x": 142,
+                                "y": 969
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Gade",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 207,
+                                "y": 943
+                            },
+                            {
+                                "x": 279,
+                                "y": 943
+                            },
+                            {
+                                "x": 279,
+                                "y": 969
+                            },
+                            {
+                                "x": 207,
+                                "y": 969
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Manoj",
+                    "confidence_score": 0.989,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 286,
+                                "y": 944
+                            },
+                            {
+                                "x": 365,
+                                "y": 944
+                            },
+                            {
+                                "x": 365,
+                                "y": 975
+                            },
+                            {
+                                "x": 286,
+                                "y": 975
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Kumar",
+                    "confidence_score": 0.99,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 372,
+                                "y": 943
+                            },
+                            {
+                                "x": 459,
+                                "y": 943
+                            },
+                            {
+                                "x": 459,
+                                "y": 969
+                            },
+                            {
+                                "x": 372,
+                                "y": 969
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "/",
+                    "confidence_score": 0.982,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 463,
+                                "y": 944
+                            },
+                            {
+                                "x": 476,
+                                "y": 944
+                            },
+                            {
+                                "x": 476,
+                                "y": 969
+                            },
+                            {
+                                "x": 463,
+                                "y": 969
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Biztech2go",
+                    "confidence_score": 0.98,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 479,
+                                "y": 943
+                            },
+                            {
+                                "x": 624,
+                                "y": 943
+                            },
+                            {
+                                "x": 624,
+                                "y": 975
+                            },
+                            {
+                                "x": 479,
+                                "y": 975
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "176",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1069,
+                            "y": 944
+                        },
+                        {
+                            "x": 1117,
+                            "y": 944
+                        },
+                        {
+                            "x": 1117,
+                            "y": 969
+                        },
+                        {
+                            "x": 1069,
+                            "y": 969
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "176",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1069,
+                                "y": 944
+                            },
+                            {
+                                "x": 1117,
+                                "y": 944
+                            },
+                            {
+                                "x": 1117,
+                                "y": 969
+                            },
+                            {
+                                "x": 1069,
+                                "y": 969
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "85.00",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1325,
+                            "y": 944
+                        },
+                        {
+                            "x": 1399,
+                            "y": 944
+                        },
+                        {
+                            "x": 1399,
+                            "y": 969
+                        },
+                        {
+                            "x": 1325,
+                            "y": 969
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "85.00",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1325,
+                                "y": 944
+                            },
+                            {
+                                "x": 1399,
+                                "y": 944
+                            },
+                            {
+                                "x": 1399,
+                                "y": 969
+                            },
+                            {
+                                "x": 1325,
+                                "y": 969
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "14,960.00",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1490,
+                            "y": 944
+                        },
+                        {
+                            "x": 1618,
+                            "y": 944
+                        },
+                        {
+                            "x": 1618,
+                            "y": 971
+                        },
+                        {
+                            "x": 1490,
+                            "y": 971
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "14,960.00",
+                    "confidence_score": 0.996,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1490,
+                                "y": 944
+                            },
+                            {
+                                "x": 1618,
+                                "y": 944
+                            },
+                            {
+                                "x": 1618,
+                                "y": 971
+                            },
+                            {
+                                "x": 1490,
+                                "y": 971
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "Services provided by our consultant Gade Bala Manoj Kumar for",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 142,
+                            "y": 976
+                        },
+                        {
+                            "x": 966,
+                            "y": 976
+                        },
+                        {
+                            "x": 966,
+                            "y": 1008
+                        },
+                        {
+                            "x": 142,
+                            "y": 1008
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "Services",
+                    "confidence_score": 0.997,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 142,
+                                "y": 977
+                            },
+                            {
+                                "x": 252,
+                                "y": 977
+                            },
+                            {
+                                "x": 252,
+                                "y": 1003
+                            },
+                            {
+                                "x": 142,
+                                "y": 1003
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "provided",
+                    "confidence_score": 1.0,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 261,
+                                "y": 978
+                            },
+                            {
+                                "x": 371,
+                                "y": 978
+                            },
+                            {
+                                "x": 371,
+                                "y": 1008
+                            },
+                            {
+                                "x": 261,
+                                "y": 1008
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "by",
+                    "confidence_score": 1.0,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 379,
+                                "y": 978
+                            },
+                            {
+                                "x": 410,
+                                "y": 978
+                            },
+                            {
+                                "x": 410,
+                                "y": 1008
+                            },
+                            {
+                                "x": 379,
+                                "y": 1008
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "our",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 417,
+                                "y": 983
+                            },
+                            {
+                                "x": 461,
+                                "y": 983
+                            },
+                            {
+                                "x": 461,
+                                "y": 1002
+                            },
+                            {
+                                "x": 417,
+                                "y": 1002
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "consultant",
+                    "confidence_score": 0.997,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 466,
+                                "y": 978
+                            },
+                            {
+                                "x": 600,
+                                "y": 978
+                            },
+                            {
+                                "x": 600,
+                                "y": 1003
+                            },
+                            {
+                                "x": 466,
+                                "y": 1003
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Gade",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 607,
+                                "y": 978
+                            },
+                            {
+                                "x": 678,
+                                "y": 978
+                            },
+                            {
+                                "x": 678,
+                                "y": 1002
+                            },
+                            {
+                                "x": 607,
+                                "y": 1002
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Bala",
+                    "confidence_score": 0.997,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 686,
+                                "y": 978
+                            },
+                            {
+                                "x": 744,
+                                "y": 978
+                            },
+                            {
+                                "x": 744,
+                                "y": 1002
+                            },
+                            {
+                                "x": 686,
+                                "y": 1002
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Manoj",
+                    "confidence_score": 0.991,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 752,
+                                "y": 977
+                            },
+                            {
+                                "x": 830,
+                                "y": 977
+                            },
+                            {
+                                "x": 830,
+                                "y": 1008
+                            },
+                            {
+                                "x": 752,
+                                "y": 1008
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "Kumar",
+                    "confidence_score": 0.995,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 837,
+                                "y": 977
+                            },
+                            {
+                                "x": 924,
+                                "y": 977
+                            },
+                            {
+                                "x": 924,
+                                "y": 1003
+                            },
+                            {
+                                "x": 837,
+                                "y": 1003
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "for",
+                    "confidence_score": 1.0,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 929,
+                                "y": 976
+                            },
+                            {
+                                "x": 966,
+                                "y": 976
+                            },
+                            {
+                                "x": 966,
+                                "y": 1002
+                            },
+                            {
+                                "x": 929,
+                                "y": 1002
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "the month of June'2020",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 140,
+                            "y": 1013
+                        },
+                        {
+                            "x": 443,
+                            "y": 1013
+                        },
+                        {
+                            "x": 443,
+                            "y": 1038
+                        },
+                        {
+                            "x": 140,
+                            "y": 1038
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "the",
+                    "confidence_score": 1.0,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 140,
+                                "y": 1013
+                            },
+                            {
+                                "x": 182,
+                                "y": 1013
+                            },
+                            {
+                                "x": 182,
+                                "y": 1037
+                            },
+                            {
+                                "x": 140,
+                                "y": 1037
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "month",
+                    "confidence_score": 1.0,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 190,
+                                "y": 1014
+                            },
+                            {
+                                "x": 270,
+                                "y": 1014
+                            },
+                            {
+                                "x": 270,
+                                "y": 1037
+                            },
+                            {
+                                "x": 190,
+                                "y": 1037
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "of",
+                    "confidence_score": 1.0,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 278,
+                                "y": 1013
+                            },
+                            {
+                                "x": 304,
+                                "y": 1013
+                            },
+                            {
+                                "x": 304,
+                                "y": 1037
+                            },
+                            {
+                                "x": 278,
+                                "y": 1037
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "June'2020",
+                    "confidence_score": 0.907,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 310,
+                                "y": 1013
+                            },
+                            {
+                                "x": 443,
+                                "y": 1013
+                            },
+                            {
+                                "x": 443,
+                                "y": 1038
+                            },
+                            {
+                                "x": 310,
+                                "y": 1038
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "BALANCE DUE",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 897,
+                            "y": 1124
+                        },
+                        {
+                            "x": 1101,
+                            "y": 1124
+                        },
+                        {
+                            "x": 1101,
+                            "y": 1149
+                        },
+                        {
+                            "x": 897,
+                            "y": 1149
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "BALANCE",
+                    "confidence_score": 0.996,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 897,
+                                "y": 1125
+                            },
+                            {
+                                "x": 1033,
+                                "y": 1125
+                            },
+                            {
+                                "x": 1033,
+                                "y": 1149
+                            },
+                            {
+                                "x": 897,
+                                "y": 1149
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                },
+                {
+                    "word_description": "DUE",
+                    "confidence_score": 0.998,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1040,
+                                "y": 1124
+                            },
+                            {
+                                "x": 1101,
+                                "y": 1124
+                            },
+                            {
+                                "x": 1101,
+                                "y": 1149
+                            },
+                            {
+                                "x": 1040,
+                                "y": 1149
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        },
+        {
+            "block_details": {
+                "block_description": "$14,960.00",
+                "bounding_box": {
+                    "vertices": [
+                        {
+                            "x": 1386,
+                            "y": 1127
+                        },
+                        {
+                            "x": 1617,
+                            "y": 1127
+                        },
+                        {
+                            "x": 1617,
+                            "y": 1175
+                        },
+                        {
+                            "x": 1386,
+                            "y": 1175
+                        }
+                    ]
+                }
+            },
+            "word_details": [
+                {
+                    "word_description": "$14,960.00",
+                    "confidence_score": 0.999,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1386,
+                                "y": 1127
+                            },
+                            {
+                                "x": 1617,
+                                "y": 1127
+                            },
+                            {
+                                "x": 1617,
+                                "y": 1175
+                            },
+                            {
+                                "x": 1386,
+                                "y": 1175
+                            }
+                        ]
+                    },
+                    "user_modified": 0,
+                    "entity_label": "arto_others"
+                }
+            ]
+        }
+    ],
+    "table_annotations": [
+        {
+            "confidence_score": 0.97,
+            "bounding_box": {
+                "vertices": [
+                    {
+                        "x": 1171,
+                        "y": 466
+                    },
+                    {
+                        "x": 1497,
+                        "y": 466
+                    },
+                    {
+                        "x": 1497,
+                        "y": 625
+                    },
+                    {
+                        "x": 1171,
+                        "y": 625
+                    }
+                ]
+            },
+            "cell_details": [
+                {
+                    "row_index": 1,
+                    "column_index": 1,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1171,
+                                "y": 466
+                            },
+                            {
+                                "x": 1344,
+                                "y": 466
+                            },
+                            {
+                                "x": 1344,
+                                "y": 506
+                            },
+                            {
+                                "x": 1171,
+                                "y": 506
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "INVOICE",
+                            "confidence_score": 0.998,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1187,
+                                        "y": 473
+                                    },
+                                    {
+                                        "x": 1306,
+                                        "y": 473
+                                    },
+                                    {
+                                        "x": 1306,
+                                        "y": 499
+                                    },
+                                    {
+                                        "x": 1187,
+                                        "y": 499
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "#",
+                            "confidence_score": 0.998,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1313,
+                                        "y": 474
+                                    },
+                                    {
+                                        "x": 1332,
+                                        "y": 474
+                                    },
+                                    {
+                                        "x": 1332,
+                                        "y": 499
+                                    },
+                                    {
+                                        "x": 1313,
+                                        "y": 499
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 1,
+                    "column_index": 2,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1344,
+                                "y": 466
+                            },
+                            {
+                                "x": 1497,
+                                "y": 466
+                            },
+                            {
+                                "x": 1497,
+                                "y": 506
+                            },
+                            {
+                                "x": 1344,
+                                "y": 506
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "2070412",
+                            "confidence_score": 0.993,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1342,
+                                        "y": 473
+                                    },
+                                    {
+                                        "x": 1457,
+                                        "y": 473
+                                    },
+                                    {
+                                        "x": 1457,
+                                        "y": 498
+                                    },
+                                    {
+                                        "x": 1342,
+                                        "y": 498
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 2,
+                    "column_index": 1,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1171,
+                                "y": 506
+                            },
+                            {
+                                "x": 1344,
+                                "y": 506
+                            },
+                            {
+                                "x": 1344,
+                                "y": 545
+                            },
+                            {
+                                "x": 1171,
+                                "y": 545
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "DATE",
+                            "confidence_score": 0.998,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1253,
+                                        "y": 513
+                                    },
+                                    {
+                                        "x": 1331,
+                                        "y": 513
+                                    },
+                                    {
+                                        "x": 1331,
+                                        "y": 539
+                                    },
+                                    {
+                                        "x": 1253,
+                                        "y": 539
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 2,
+                    "column_index": 2,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1344,
+                                "y": 506
+                            },
+                            {
+                                "x": 1497,
+                                "y": 506
+                            },
+                            {
+                                "x": 1497,
+                                "y": 545
+                            },
+                            {
+                                "x": 1344,
+                                "y": 545
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "07/02/2020",
+                            "confidence_score": 0.995,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1343,
+                                        "y": 513
+                                    },
+                                    {
+                                        "x": 1489,
+                                        "y": 513
+                                    },
+                                    {
+                                        "x": 1489,
+                                        "y": 539
+                                    },
+                                    {
+                                        "x": 1343,
+                                        "y": 539
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 3,
+                    "column_index": 1,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1171,
+                                "y": 545
+                            },
+                            {
+                                "x": 1344,
+                                "y": 545
+                            },
+                            {
+                                "x": 1344,
+                                "y": 586
+                            },
+                            {
+                                "x": 1171,
+                                "y": 586
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "DUE",
+                            "confidence_score": 0.998,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1184,
+                                        "y": 553
+                                    },
+                                    {
+                                        "x": 1245,
+                                        "y": 553
+                                    },
+                                    {
+                                        "x": 1245,
+                                        "y": 579
+                                    },
+                                    {
+                                        "x": 1184,
+                                        "y": 579
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "DATE",
+                            "confidence_score": 0.998,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1253,
+                                        "y": 552
+                                    },
+                                    {
+                                        "x": 1331,
+                                        "y": 552
+                                    },
+                                    {
+                                        "x": 1331,
+                                        "y": 578
+                                    },
+                                    {
+                                        "x": 1253,
+                                        "y": 578
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 3,
+                    "column_index": 2,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1344,
+                                "y": 545
+                            },
+                            {
+                                "x": 1497,
+                                "y": 545
+                            },
+                            {
+                                "x": 1497,
+                                "y": 586
+                            },
+                            {
+                                "x": 1344,
+                                "y": 586
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "08/01/2020",
+                            "confidence_score": 0.996,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1344,
+                                        "y": 553
+                                    },
+                                    {
+                                        "x": 1489,
+                                        "y": 553
+                                    },
+                                    {
+                                        "x": 1489,
+                                        "y": 578
+                                    },
+                                    {
+                                        "x": 1344,
+                                        "y": 578
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 4,
+                    "column_index": 1,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1171,
+                                "y": 586
+                            },
+                            {
+                                "x": 1344,
+                                "y": 586
+                            },
+                            {
+                                "x": 1344,
+                                "y": 625
+                            },
+                            {
+                                "x": 1171,
+                                "y": 625
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "TERMS",
+                            "confidence_score": 0.999,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1227,
+                                        "y": 592
+                                    },
+                                    {
+                                        "x": 1330,
+                                        "y": 592
+                                    },
+                                    {
+                                        "x": 1330,
+                                        "y": 618
+                                    },
+                                    {
+                                        "x": 1227,
+                                        "y": 618
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 4,
+                    "column_index": 2,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1344,
+                                "y": 586
+                            },
+                            {
+                                "x": 1497,
+                                "y": 586
+                            },
+                            {
+                                "x": 1497,
+                                "y": 625
+                            },
+                            {
+                                "x": 1344,
+                                "y": 625
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "Net",
+                            "confidence_score": 0.998,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1345,
+                                        "y": 593
+                                    },
+                                    {
+                                        "x": 1389,
+                                        "y": 593
+                                    },
+                                    {
+                                        "x": 1389,
+                                        "y": 617
+                                    },
+                                    {
+                                        "x": 1345,
+                                        "y": 617
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "30",
+                            "confidence_score": 0.999,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1396,
+                                        "y": 593
+                                    },
+                                    {
+                                        "x": 1429,
+                                        "y": 593
+                                    },
+                                    {
+                                        "x": 1429,
+                                        "y": 617
+                                    },
+                                    {
+                                        "x": 1396,
+                                        "y": 617
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "confidence_score": 0.991,
+            "bounding_box": {
+                "vertices": [
+                    {
+                        "x": 49,
+                        "y": 878
+                    },
+                    {
+                        "x": 1710,
+                        "y": 878
+                    },
+                    {
+                        "x": 1710,
+                        "y": 1175
+                    },
+                    {
+                        "x": 49,
+                        "y": 1175
+                    }
+                ]
+            },
+            "cell_details": [
+                {
+                    "row_index": 1,
+                    "column_index": 1,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 49,
+                                "y": 878
+                            },
+                            {
+                                "x": 1047,
+                                "y": 878
+                            },
+                            {
+                                "x": 1047,
+                                "y": 929
+                            },
+                            {
+                                "x": 49,
+                                "y": 929
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "ACTIVITY",
+                            "confidence_score": 0.999,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 141,
+                                        "y": 889
+                                    },
+                                    {
+                                        "x": 259,
+                                        "y": 889
+                                    },
+                                    {
+                                        "x": 259,
+                                        "y": 912
+                                    },
+                                    {
+                                        "x": 141,
+                                        "y": 912
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 1,
+                    "column_index": 2,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1047,
+                                "y": 878
+                            },
+                            {
+                                "x": 1228,
+                                "y": 878
+                            },
+                            {
+                                "x": 1228,
+                                "y": 929
+                            },
+                            {
+                                "x": 1047,
+                                "y": 929
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "QTY",
+                            "confidence_score": 0.999,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1062,
+                                        "y": 889
+                                    },
+                                    {
+                                        "x": 1117,
+                                        "y": 889
+                                    },
+                                    {
+                                        "x": 1117,
+                                        "y": 912
+                                    },
+                                    {
+                                        "x": 1062,
+                                        "y": 912
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 1,
+                    "column_index": 3,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1228,
+                                "y": 878
+                            },
+                            {
+                                "x": 1455,
+                                "y": 878
+                            },
+                            {
+                                "x": 1455,
+                                "y": 929
+                            },
+                            {
+                                "x": 1228,
+                                "y": 929
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "RATE",
+                            "confidence_score": 0.998,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1329,
+                                        "y": 889
+                                    },
+                                    {
+                                        "x": 1399,
+                                        "y": 889
+                                    },
+                                    {
+                                        "x": 1399,
+                                        "y": 912
+                                    },
+                                    {
+                                        "x": 1329,
+                                        "y": 912
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 1,
+                    "column_index": 4,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1455,
+                                "y": 878
+                            },
+                            {
+                                "x": 1710,
+                                "y": 878
+                            },
+                            {
+                                "x": 1710,
+                                "y": 929
+                            },
+                            {
+                                "x": 1455,
+                                "y": 929
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "AMOUNT",
+                            "confidence_score": 0.998,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1505,
+                                        "y": 890
+                                    },
+                                    {
+                                        "x": 1618,
+                                        "y": 890
+                                    },
+                                    {
+                                        "x": 1618,
+                                        "y": 912
+                                    },
+                                    {
+                                        "x": 1505,
+                                        "y": 912
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 2,
+                    "column_index": 1,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 49,
+                                "y": 929
+                            },
+                            {
+                                "x": 1047,
+                                "y": 929
+                            },
+                            {
+                                "x": 1047,
+                                "y": 1098
+                            },
+                            {
+                                "x": 49,
+                                "y": 1098
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "Bala",
+                            "confidence_score": 0.996,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 142,
+                                        "y": 944
+                                    },
+                                    {
+                                        "x": 200,
+                                        "y": 944
+                                    },
+                                    {
+                                        "x": 200,
+                                        "y": 969
+                                    },
+                                    {
+                                        "x": 142,
+                                        "y": 969
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "Gade",
+                            "confidence_score": 0.999,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 207,
+                                        "y": 943
+                                    },
+                                    {
+                                        "x": 279,
+                                        "y": 943
+                                    },
+                                    {
+                                        "x": 279,
+                                        "y": 969
+                                    },
+                                    {
+                                        "x": 207,
+                                        "y": 969
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "Manoj",
+                            "confidence_score": 0.989,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 286,
+                                        "y": 944
+                                    },
+                                    {
+                                        "x": 365,
+                                        "y": 944
+                                    },
+                                    {
+                                        "x": 365,
+                                        "y": 975
+                                    },
+                                    {
+                                        "x": 286,
+                                        "y": 975
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "Kumar",
+                            "confidence_score": 0.99,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 372,
+                                        "y": 943
+                                    },
+                                    {
+                                        "x": 459,
+                                        "y": 943
+                                    },
+                                    {
+                                        "x": 459,
+                                        "y": 969
+                                    },
+                                    {
+                                        "x": 372,
+                                        "y": 969
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "/",
+                            "confidence_score": 0.982,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 463,
+                                        "y": 944
+                                    },
+                                    {
+                                        "x": 476,
+                                        "y": 944
+                                    },
+                                    {
+                                        "x": 476,
+                                        "y": 969
+                                    },
+                                    {
+                                        "x": 463,
+                                        "y": 969
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "Biztech2go",
+                            "confidence_score": 0.98,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 479,
+                                        "y": 943
+                                    },
+                                    {
+                                        "x": 624,
+                                        "y": 943
+                                    },
+                                    {
+                                        "x": 624,
+                                        "y": 975
+                                    },
+                                    {
+                                        "x": 479,
+                                        "y": 975
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "Services",
+                            "confidence_score": 0.997,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 142,
+                                        "y": 977
+                                    },
+                                    {
+                                        "x": 252,
+                                        "y": 977
+                                    },
+                                    {
+                                        "x": 252,
+                                        "y": 1003
+                                    },
+                                    {
+                                        "x": 142,
+                                        "y": 1003
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "provided",
+                            "confidence_score": 1.0,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 261,
+                                        "y": 978
+                                    },
+                                    {
+                                        "x": 371,
+                                        "y": 978
+                                    },
+                                    {
+                                        "x": 371,
+                                        "y": 1008
+                                    },
+                                    {
+                                        "x": 261,
+                                        "y": 1008
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "by",
+                            "confidence_score": 1.0,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 379,
+                                        "y": 978
+                                    },
+                                    {
+                                        "x": 410,
+                                        "y": 978
+                                    },
+                                    {
+                                        "x": 410,
+                                        "y": 1008
+                                    },
+                                    {
+                                        "x": 379,
+                                        "y": 1008
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "our",
+                            "confidence_score": 0.999,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 417,
+                                        "y": 983
+                                    },
+                                    {
+                                        "x": 461,
+                                        "y": 983
+                                    },
+                                    {
+                                        "x": 461,
+                                        "y": 1002
+                                    },
+                                    {
+                                        "x": 417,
+                                        "y": 1002
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "consultant",
+                            "confidence_score": 0.997,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 466,
+                                        "y": 978
+                                    },
+                                    {
+                                        "x": 600,
+                                        "y": 978
+                                    },
+                                    {
+                                        "x": 600,
+                                        "y": 1003
+                                    },
+                                    {
+                                        "x": 466,
+                                        "y": 1003
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "Gade",
+                            "confidence_score": 0.999,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 607,
+                                        "y": 978
+                                    },
+                                    {
+                                        "x": 678,
+                                        "y": 978
+                                    },
+                                    {
+                                        "x": 678,
+                                        "y": 1002
+                                    },
+                                    {
+                                        "x": 607,
+                                        "y": 1002
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "Bala",
+                            "confidence_score": 0.997,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 686,
+                                        "y": 978
+                                    },
+                                    {
+                                        "x": 744,
+                                        "y": 978
+                                    },
+                                    {
+                                        "x": 744,
+                                        "y": 1002
+                                    },
+                                    {
+                                        "x": 686,
+                                        "y": 1002
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "Manoj",
+                            "confidence_score": 0.991,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 752,
+                                        "y": 977
+                                    },
+                                    {
+                                        "x": 830,
+                                        "y": 977
+                                    },
+                                    {
+                                        "x": 830,
+                                        "y": 1008
+                                    },
+                                    {
+                                        "x": 752,
+                                        "y": 1008
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "Kumar",
+                            "confidence_score": 0.995,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 837,
+                                        "y": 977
+                                    },
+                                    {
+                                        "x": 924,
+                                        "y": 977
+                                    },
+                                    {
+                                        "x": 924,
+                                        "y": 1003
+                                    },
+                                    {
+                                        "x": 837,
+                                        "y": 1003
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "for",
+                            "confidence_score": 1.0,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 929,
+                                        "y": 976
+                                    },
+                                    {
+                                        "x": 966,
+                                        "y": 976
+                                    },
+                                    {
+                                        "x": 966,
+                                        "y": 1002
+                                    },
+                                    {
+                                        "x": 929,
+                                        "y": 1002
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "the",
+                            "confidence_score": 1.0,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 140,
+                                        "y": 1013
+                                    },
+                                    {
+                                        "x": 182,
+                                        "y": 1013
+                                    },
+                                    {
+                                        "x": 182,
+                                        "y": 1037
+                                    },
+                                    {
+                                        "x": 140,
+                                        "y": 1037
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "month",
+                            "confidence_score": 1.0,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 190,
+                                        "y": 1014
+                                    },
+                                    {
+                                        "x": 270,
+                                        "y": 1014
+                                    },
+                                    {
+                                        "x": 270,
+                                        "y": 1037
+                                    },
+                                    {
+                                        "x": 190,
+                                        "y": 1037
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "of",
+                            "confidence_score": 1.0,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 278,
+                                        "y": 1013
+                                    },
+                                    {
+                                        "x": 304,
+                                        "y": 1013
+                                    },
+                                    {
+                                        "x": 304,
+                                        "y": 1037
+                                    },
+                                    {
+                                        "x": 278,
+                                        "y": 1037
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        },
+                        {
+                            "word_description": "June'2020",
+                            "confidence_score": 0.907,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 310,
+                                        "y": 1013
+                                    },
+                                    {
+                                        "x": 443,
+                                        "y": 1013
+                                    },
+                                    {
+                                        "x": 443,
+                                        "y": 1038
+                                    },
+                                    {
+                                        "x": 310,
+                                        "y": 1038
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 2,
+                    "column_index": 2,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1047,
+                                "y": 929
+                            },
+                            {
+                                "x": 1228,
+                                "y": 929
+                            },
+                            {
+                                "x": 1228,
+                                "y": 1098
+                            },
+                            {
+                                "x": 1047,
+                                "y": 1098
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "176",
+                            "confidence_score": 0.999,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1069,
+                                        "y": 944
+                                    },
+                                    {
+                                        "x": 1117,
+                                        "y": 944
+                                    },
+                                    {
+                                        "x": 1117,
+                                        "y": 969
+                                    },
+                                    {
+                                        "x": 1069,
+                                        "y": 969
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 2,
+                    "column_index": 3,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1228,
+                                "y": 929
+                            },
+                            {
+                                "x": 1455,
+                                "y": 929
+                            },
+                            {
+                                "x": 1455,
+                                "y": 1098
+                            },
+                            {
+                                "x": 1228,
+                                "y": 1098
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "85.00",
+                            "confidence_score": 0.999,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1325,
+                                        "y": 944
+                                    },
+                                    {
+                                        "x": 1399,
+                                        "y": 944
+                                    },
+                                    {
+                                        "x": 1399,
+                                        "y": 969
+                                    },
+                                    {
+                                        "x": 1325,
+                                        "y": 969
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 2,
+                    "column_index": 4,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1455,
+                                "y": 929
+                            },
+                            {
+                                "x": 1710,
+                                "y": 929
+                            },
+                            {
+                                "x": 1710,
+                                "y": 1098
+                            },
+                            {
+                                "x": 1455,
+                                "y": 1098
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "14,960.00",
+                            "confidence_score": 0.996,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1490,
+                                        "y": 944
+                                    },
+                                    {
+                                        "x": 1618,
+                                        "y": 944
+                                    },
+                                    {
+                                        "x": 1618,
+                                        "y": 971
+                                    },
+                                    {
+                                        "x": 1490,
+                                        "y": 971
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 3,
+                    "column_index": 1,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 49,
+                                "y": 1098
+                            },
+                            {
+                                "x": 1047,
+                                "y": 1098
+                            },
+                            {
+                                "x": 1047,
+                                "y": 1175
+                            },
+                            {
+                                "x": 49,
+                                "y": 1175
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "BALANCE",
+                            "confidence_score": 0.996,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 897,
+                                        "y": 1125
+                                    },
+                                    {
+                                        "x": 1033,
+                                        "y": 1125
+                                    },
+                                    {
+                                        "x": 1033,
+                                        "y": 1149
+                                    },
+                                    {
+                                        "x": 897,
+                                        "y": 1149
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 3,
+                    "column_index": 2,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1047,
+                                "y": 1098
+                            },
+                            {
+                                "x": 1228,
+                                "y": 1098
+                            },
+                            {
+                                "x": 1228,
+                                "y": 1175
+                            },
+                            {
+                                "x": 1047,
+                                "y": 1175
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "DUE",
+                            "confidence_score": 0.998,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1040,
+                                        "y": 1124
+                                    },
+                                    {
+                                        "x": 1101,
+                                        "y": 1124
+                                    },
+                                    {
+                                        "x": 1101,
+                                        "y": 1149
+                                    },
+                                    {
+                                        "x": 1040,
+                                        "y": 1149
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                },
+                {
+                    "row_index": 3,
+                    "column_index": 3,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1228,
+                                "y": 1098
+                            },
+                            {
+                                "x": 1455,
+                                "y": 1098
+                            },
+                            {
+                                "x": 1455,
+                                "y": 1175
+                            },
+                            {
+                                "x": 1228,
+                                "y": 1175
+                            }
+                        ]
+                    },
+                    "word_details": null
+                },
+                {
+                    "row_index": 3,
+                    "column_index": 4,
+                    "bounding_box": {
+                        "vertices": [
+                            {
+                                "x": 1455,
+                                "y": 1098
+                            },
+                            {
+                                "x": 1710,
+                                "y": 1098
+                            },
+                            {
+                                "x": 1710,
+                                "y": 1175
+                            },
+                            {
+                                "x": 1455,
+                                "y": 1175
+                            }
+                        ]
+                    },
+                    "word_details": [
+                        {
+                            "word_description": "$14,960.00",
+                            "confidence_score": 0.999,
+                            "bounding_box": {
+                                "vertices": [
+                                    {
+                                        "x": 1386,
+                                        "y": 1127
+                                    },
+                                    {
+                                        "x": 1617,
+                                        "y": 1127
+                                    },
+                                    {
+                                        "x": 1617,
+                                        "y": 1175
+                                    },
+                                    {
+                                        "x": 1386,
+                                        "y": 1175
+                                    }
+                                ]
+                            },
+                            "user_modified": 0,
+                            "entity_label": "arto_others"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
